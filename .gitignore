@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+skipped_steps.md
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
